@@ -358,7 +358,7 @@ ninja.data = [{
       
         title: "a distill-style blog post",
       
-      description: "an example of a distill-style blog post and main elements",
+      description: "example of distill-style (nucleate yada yada yada)",
       section: "Posts",
       handler: () => {
         
@@ -402,7 +402,7 @@ ninja.data = [{
       
         title: "a post with code",
       
-      description: "an example of a blog post with some code",
+      description: "example -- where you can put some R magic",
       section: "Posts",
       handler: () => {
         
@@ -492,28 +492,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6E%69%6C%65.%76%65%72%6C%65%75%72@%70%61%65%64%69%61%74%72%69%63%73.%63%6F.%75%6B", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/nile-verleur", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Nile-Verleur/", "_blank");
         },
       },{
         id: 'social-custom_social',
