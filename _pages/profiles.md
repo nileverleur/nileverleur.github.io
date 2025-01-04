@@ -25,4 +25,15 @@ profiles:
       <p>Imaginary Land</p>
       <p>456 idontexist ave</p>
       <p>Atlantis, Mars 420</p>
+  - align: left
+    image: hot_mess.jpg
+    content:
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>I'm Your Biggest Fan</p>
+      <p>SheMeansBusiness Blvd</p>
+      <p>Park End, Oxford, UK</p>
+
+
+
 ---
