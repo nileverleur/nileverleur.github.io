@@ -28,4 +28,13 @@ Beyond the lab, Nile is interested in scientific communications, femtech and bio
 
 Nile credits everything to her darling [Chullstopher](https://chris-hull.com), the apple of her eye and the banana of her soul. 
 
-Find Nile on [LinkedIn](https://www.linkedin.com/in/nile-verleur/?originalSubdomain=uk), 
+------------------------------------------------------------------------------------------------------------------------------
+
+
+BABY <3 <3 <3. You solved the riddle!!! Here is your own personal website template. Happy 2025 :)
+If you don't want it, you don't have to keep it. But I think deserve your own website and one day you will be a famous science-preneur so it could be cool to start building up your brand. Plus it's fun to have a website. 
+Click around the site to get a feel for it and the different pages you can have on it. (omg look there's a convenient blog page!).
+
+If you do want to keep it, I can show you how to run the site, change things, post things, etc. It's not terribly complicated but there are some potentially confusing bits -- luckily you have 24/7 access to an IT guy ;). Or if you don't want to learn how to admin the website but you want to keep it, I can do it for you. 
+Love you <3 <3 <3
+Chris
