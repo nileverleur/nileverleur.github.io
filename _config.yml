@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Not so hot moments of a hottie, and other thoughts # blog_name will be displayed in your blog page
-blog_description: Nile shares funny moments in life like the time she, and also her thoughts on science stuff. 
+blog_name:  # blog_name will be displayed in your blog page
+blog_description: # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
