@@ -439,8 +439,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-nile-recevies-chris-first-letter-sparkles-smile",
-          title: 'Nile recevies Chris’ first letter! :sparkles: :smile:',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
