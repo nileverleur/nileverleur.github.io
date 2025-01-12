@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Nile Verleur, aka Muffin Dumpling, is a sexy badass paediatric immunologist. If u don't watch out she will infect u and then skoop ur brain out. If u do watch out she might just slap you around a lil. The best defense against her is to pretend you are a cow. She luvs cows. Unreasonably so some might say. But don't say that to her if you value your wellbeing. This website contains her plan for world domination. 
+<!-- Nile Verleur, aka Muffin Dumpling, is a sexy badass paediatric immunologist. If u don't watch out she will infect u and then skoop ur brain out. If u do watch out she might just slap you around a lil. The best defense against her is to pretend you are a cow. She luvs cows. Unreasonably so some might say. But don't say that to her if you value your wellbeing. This website contains her plan for world domination. 
 
 Nile Verleur is a PhD researcher affiliated with the [Oxford Vaccine Group](https://www.ovg.ox.ac.uk), where she specializes in the intersection of paediatric mucosal immunity and genetics. Nile is interested in advancing our understanding of mucosal immune niches and host-pathogen interactions. Her work centers on identifying pediatric immune targets and personalized interventions, a passion ignited by her clinical involvement with infants facing rare genetic disease susceptibility to common pathogens.
 
@@ -40,4 +40,4 @@ If you do want to keep it, I can show you how to run the site. It's not terribly
 
 Love you <3 <3 <3
 
-Chris
+Chris -->
