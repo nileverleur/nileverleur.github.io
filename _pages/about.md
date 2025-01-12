@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-This website is pending
+This website is pending...
 
 <!-- Nile Verleur, aka Muffin Dumpling, is a sexy badass paediatric immunologist. If u don't watch out she will infect u and then skoop ur brain out. If u do watch out she might just slap you around a lil. The best defense against her is to pretend you are a cow. She luvs cows. Unreasonably so some might say. But don't say that to her if you value your wellbeing. This website contains her plan for world domination. 
 
