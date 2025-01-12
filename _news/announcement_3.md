@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nile recevies Chris' first letter! :sparkles: :smile: 
+<!-- Nile recevies Chris' first letter! :sparkles: :smile:  -->
