@@ -10,30 +10,29 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: daniella.jpeg
-    content: about_daniella.md
+    image: #daniella.jpeg
+    content: about_person.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Daniella, Kween of OVG</p>
       <p>123 BossLadyLane</p>
       <p>IdkButNotTheOffice, Brasil? 12345</p>
   - align: left
-    image: pascale.jpeg
-    content: about_pascale.md
+    image: #pascale.jpeg
+    content: about_person2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Imaginary Land</p>
-      <p>456 idontexist ave</p>
-      <p>Atlantis, Mars 420</p>
+      <p>Address goes</p>
+      <p>here</p>
+      <p>--</p>
   - align: left
-    image: hot_mess.jpg
+    image: #hot_mess.jpg
     content:
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>I'm Your Biggest Fan</p>
-      <p>SheMeansBusiness Blvd</p>
-      <p>Park End, Oxford, UK</p>
-
+      <p>Address goes</p>
+      <p>here</p>
+      <p>--</p>
 
 
 ---
